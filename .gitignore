@@ -1,8 +1,9 @@
-# .idea/workspace.xml (added by ckkim, 19/07/25)
+﻿# .idea/workspace.xml (added by ckkim, 19/07/25)
 .idea/workspace.xml
 workspace.xml
 *.db
 소상공인_201906/
+01_GoogleNews-vectors-negative300.bin
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
