@@ -8,6 +8,7 @@ workspace.xml
 01_ko.tsv
 the-movies-dataset/
 logs/
+dogs-vs-cats/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
