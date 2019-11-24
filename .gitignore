@@ -10,6 +10,7 @@ the-movies-dataset/
 logs/
 dogs-vs-cats/
 NYT-comments/
+model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
